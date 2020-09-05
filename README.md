@@ -14,4 +14,13 @@ sudo docker rm $(sudo docker ps -aq)
 ## DOCKER COMMANDS
  -p "assigns a port"
  -d "detach so terminal is not blocked"
+
+ ## DOCKER COMPOSE (not for ft_server)
+
+ ```
+ docker-compose up -d
+ ```
+ ```
+ docker-compose stop
+ ```
  
