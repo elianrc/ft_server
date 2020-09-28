@@ -42,6 +42,8 @@ A rich, deep research to understand all the services used is vital. With Docker 
 * Check your host ports - [LINK](https://unix.stackexchange.com/questions/244531/kill-process-running-on-port-80#:~:text=There%20are%20several%20ways%20to,associated%20with%20the%20listening%20port.&text=After%20finding%20out%2C%20you%20can,kill%20the%20process(es).&text=Replace%20echo%20by%20sudo%20for%20the%20process%20to%20actually%20be%20killed.)
 * Install Wordpress along LEMP stack - [LINK](https://www.tecmint.com/install-wordpress-alongside-lamp-on-debian-10/)
 * NGINX configuration - [LINK](https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/)
+* Generate SSL key - [LINK](https://linuxize.com/post/creating-a-self-signed-ssl-certificate/)
+* SED command for autoindex - [LINK](https://www.youtube.com/watch?v=TFq5YxN7pE0)
 ### Repositories
 * [rchallie](https://github.com/rchallie/ft_server)
 * [edithturn](https://github.com/edithturn/42-ft-server)
